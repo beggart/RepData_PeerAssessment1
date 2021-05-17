@@ -2,9 +2,6 @@
 title: "Reproducible Research - Project 1"
 author: "Benjamin Eggart"
 date: "5/17/2021"
-output:
-  md_document:
-    variant: markdown_github
 ---
 
 
